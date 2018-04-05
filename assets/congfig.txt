@@ -1,0 +1,2 @@
+password
+./assets/data.txt
